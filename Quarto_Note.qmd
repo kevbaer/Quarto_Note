@@ -1,0 +1,43 @@
+---
+title: "Stats 100b - Lecture 3"
+format: PrettyPDF-pdf
+author: Kevin Baer
+date: 2025-09-09
+---
+
+# First
+
+## Second
+
+### Third
+
+#### Fourth
+
+**bold**
+
+*italics*
+
+```{python}
+import polars as pl
+
+```
+
+```{r}
+1 + 1
+
+library(tidyverse)
+mtcars <- as_tibble(mtcars)
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2 
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+[kevbaer.github.io](kevbaer.github.io){target="_blank"}
+
+I'm writing text!
